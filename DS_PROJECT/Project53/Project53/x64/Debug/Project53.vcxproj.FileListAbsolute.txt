@@ -1,0 +1,8 @@
+C:\Users\yours\source\repos\Project53\Project53\x64\Debug\Project53.vcxproj.AssemblyReference.cache
+C:\Users\yours\source\repos\Project53\Project53\x64\Debug\Project53.MyForm.resources
+C:\Users\yours\source\repos\Project53\Project53\x64\Debug\Project53.vcxproj.GenerateResource.cache
+C:\Users\yours\source\repos\Project53\Project53\x64\Debug\Project53.PoolsForm.resources
+C:\Users\yours\source\repos\Project53\Project53\x64\Debug\Project53.TeamsForm.resources
+C:\Users\yours\source\repos\Project53\Project53\x64\Debug\Project53.TournamentForm.resources
+C:\Users\yours\source\repos\Project53\Project53\x64\Debug\Project53.MatchHistoryForm.resources
+C:\Users\yours\source\repos\Project53\Project53\x64\Debug\Project53.TeamDetailsForm.resources

@@ -1,0 +1,12 @@
+﻿  MatchHistoryForm.cpp
+  PoolsForm.cpp
+  TeamDetailsForm.cpp
+  TeamsForm.cpp
+  TournamentForm.cpp
+  main.cpp
+C:\Users\yours\source\repos\Project53\Project53\MyForm.h(167,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
+  main.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project53.vcxproj -> C:\Users\yours\source\repos\Project53\x64\Debug\Project53.exe

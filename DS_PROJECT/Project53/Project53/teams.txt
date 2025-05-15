@@ -1,0 +1,16 @@
+Cyber Photons,Abdul Rafay,Male,0314-5637758,abdulrafayjaved58@gmail.com,Hussain Ali,Male,03075121280,darkvilen1112@gmail.com,Shah Saad Khan,Male,03318077778,shahsaadkhan468@gmail.com,15
+Let's_try,Tasbeel Hashir,Male,0303-8973499,tasbeel12@gmail.com,Ashir Aziz,Male,03173009419,ashiraziz946@gmai.com,Rana Uzair Ahmad,Male,0307 1649080,ranauzair370@gmail.com,12
+Aim's-7,Muzammil Akhtar,Male,0302-8562264,muzammilakhtar13@gmail.com,Ibrahim Ahmad,Male,0320-9909121,ibrahimahmadpk2120@gmail.com,Rubas Ali,Male,03249008649,rubasali.paf@gmail.com,3
+Team 404,Muhammad Ammar Saleem,Male,0321-9586094,ammar34156@gmail.com,Shahmeer Shahid,Male,03256000625,shahmeershahid9997@gmail.com,Amna Naeem,Female,03335287586,241550@students.au.edu.pk,4
+M-24,Salman Shahid,Male,0334-0255111,salmannraja18@gmail.com,Ali Shair,Male,03494833889,alishair.sarfraz@gmail.com,Zeeshan Haider,Male,03095233318,cydev.turing@gmail.com,5
+Cyber Dopers,Muhammad Bilal,Male,0314-9208465,bk7792351@gmail.com,Faisal Rehman,Male,0316 6440513,fmfaisalrahman@gmail.com,Zain Asif,Male,0337 9786904,zainasif721@gmail.com,6
+RDX,Alishba Inam,Female,0300-5284092,i242036@isb.nu.edu.pk,Usman Ibrahim,Male,03342226620,i242038@isb.nu.edu.pk,Tehreem Wasim,Female,03199435858,i242102@isb.nu.edu.pk,7
+White Hat Wizard,Muhammad Faisal Farooq,Male,0313-5520012,241512@students.au.edu.pk,Faisal Nadeem,Male,03106898146,241498@students.au.edu.pk,Muhammad Mahad,Male,03485868657,mahadmuhammad840@gmail.com,8
+Alpha Juniors,M Arslan,Male,0318-6805084,241586@students.au.edu.pk,Muhammad Zain Tanveer,Male,03009771730,241590@students.au.edu.pk,Aryan Tariq,Male,03232111584,241552@students.au.edu.pk,9
+Cyber Knights,Aiman Zulfiqar,Female,0313-5222509,aimanzulfiqar889@gmail.com,Moiza Shoaib,Female,03479890324,moizashoaib28@gmail.com,Kinza Asifa,Female,0336 9304518,kinzaasif605@gmail.com,10
+Debug Squad,Hadiya Zuberi,Female,03350256676,245359@aack.au.edu.pk,Andleeb Jan,Female,03288730281,245097@aack.au.edu.pk,Areej Fatima,Female,03555761854,245092@aack.au.edu.pk,11
+3 Idiots,Zargham Mohsin,Male,0319 5813813,zargham.mohsin17@gmail.com,Fatima Razzaq,Female,0310 5351777,razzaqfatima09@gmail.com,Rida Omer,Female,0305 8955674,ridaomer156@gmail.com,2
+T1L4NGY0N,Riyan ur Rehman,Male,0333-0642030,riyanurrrehman@gmail.com,Rehan,Male,0349-2395062,sasuketop74@gmail.com,Mahad shah,Male,0316-1487117,smmahadshah3@gmail.com,13
+Al Qaida,Moeiz Farooq,Male,0313-5018960,moeizkhan55@gmail.com,Abdullah Malik,Male,0317 3652342,madeagle896@gmail.com,Zahra Fatima,Female,0330 2341787,zarafatma10@gmail.com,14
+ZaPedos,Taha Nasir,Male,0322-5748543,tahanasir032@gmail.com,Zaki Haider,Male,03361960147,livox1180@gmail.com,Qasim,Male,03009568811,qasimmaajid04@gmail.com,1
+Air Pirates,Iqra Noor,Female,0319-5818395,iqranoor27aug@gmail.com,Fizza Afzal,Female,03488066677,afzalfizza9@gmail.com,Saad Arif,Male,03205636418,saadbinarif789@gmail.com,16

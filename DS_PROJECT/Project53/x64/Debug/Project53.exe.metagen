@@ -1,0 +1,58 @@
+  Project53.MatchHistoryForm.resources - Embedded, ContainedInManifestFile, 
+  Project53.MyForm.resources - Embedded, ContainedInManifestFile, 
+  Project53.PoolsForm.resources - Embedded, ContainedInManifestFile, 
+  Project53.TeamDetailsForm.resources - Embedded, ContainedInManifestFile, 
+  Project53.TeamsForm.resources - Embedded, ContainedInManifestFile, 
+  Project53.TournamentForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Project53, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class project53.TeamDetailsForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Team*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    OnBack(Object, EventArgs): PrivateScope, Public, HideBySig
+Class project53.TeamsForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Team*, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    LoadTeamsData(): PrivateScope, Public, HideBySig
+    OnSearch(Object, EventArgs): PrivateScope, Public, HideBySig
+    OnTeamSelected(Object, EventArgs): PrivateScope, Public, HideBySig
+    OnBack(Object, EventArgs): PrivateScope, Public, HideBySig
+Class project53.PoolsForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(std.queue<Team \*\,std::deque<Team \*\,std::allocator<Team \*> > >*, std.queue<Team \*\,std::deque<Team \*\,std::allocator<Team \*> > >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    LoadPools(queue<Team \*\,std::deque<Team \*\,std::allocator<Team \*> > >*, queue<Team \*\,std::deque<Team \*\,std::allocator<Team \*> > >*): PrivateScope, Public, HideBySig
+    OnSearch(Object, EventArgs): PrivateScope, Public, HideBySig
+    OnBack(Object, EventArgs): PrivateScope, Public, HideBySig
+Class project53.TournamentForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Scheduler*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    OnSimulate(Object, EventArgs): PrivateScope, Public, HideBySig
+    OnBack(Object, EventArgs): PrivateScope, Public, HideBySig
+    OnModeChanged(Object, EventArgs): PrivateScope, Public, HideBySig
+Class project53.MatchHistoryForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Match*, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    LoadMatchHistory(): PrivateScope, Public, HideBySig
+    OnSearch(Object, EventArgs): PrivateScope, Public, HideBySig
+    OnBack(Object, EventArgs): PrivateScope, Public, HideBySig
+Class project53.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
